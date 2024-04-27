@@ -1,4 +1,5 @@
-![cover](https://github.com/iqbalstilllearning/logistics-and-supply-chain-analysis/assets/105572256/d30ea6e5-3d88-4a76-bd98-390c20d76e28)
+
+![cover](https://github.com/iqbalstilllearning/logistics-and-supply-chain-analysis/assets/105572256/ef03c656-8e60-4b13-be21-8ff8054ecada)
 
 - Image credit : [iStock](https://www.istockphoto.com/id/search/search-by-asset?affiliateredirect=true&assetid=1449484368&assettype=image&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsupply-chain&utm_medium=affiliate&utm_source=unsplash&utm_term=supply+chain%3A%3A%3A)
 
@@ -56,3 +57,55 @@ The data analysis is performed using Python in Jupyter Notebook to gain insights
 
 Notebook: [Link](https://github.com/iqbalstilllearning/logistics-and-supply-chain-analysis/blob/main/Preparation.ipynb)
 
+# **Dashboard**
+![Screenshot (76)](https://github.com/iqbalstilllearning/logistics-and-supply-chain-analysis/assets/105572256/4fc247d2-f582-4b81-a4d0-8c8d10e7f85d)
+![Screenshot (77)](https://github.com/iqbalstilllearning/logistics-and-supply-chain-analysis/assets/105572256/697dc240-4cb8-4d1b-8c54-99cc3926c983)
+![Screenshot (75)](https://github.com/iqbalstilllearning/logistics-and-supply-chain-analysis/assets/105572256/da5c1592-d0bb-411a-ad5c-5c70416255ea)
+
+Tableau: [Link Dashboard](https://public.tableau.com/app/profile/muhammad.iqbal4860/viz/LogisticsandSupplyChain_17132303798530/BusinessPerformance)
+
+# **Conclusion**
+**1. Based on Business Performance Dashboard:**
+- Monthly sales usually fall between 160,000 to 203,000 dollars, while monthly profits typically range from 104,000 to 135,000 dollars with August 2016 being the best month. However, there was a noticeable decrease in profits from October to December 2017, which warrants additional scrutiny due to possible data. constraints.
+- Gross Sales : 6,181,476 dollars; Profit : 3,994,192 dollars; Profit Margin : 2,608,552 dollars; Order Quantity/Demand = 66,367 products
+- Most profitable product is Perfect Fitness Perfect Rip Deck, earning around $630,924 followed by Field & Stream Sportsman 16 Gun Fire Safe, etc.
+- Most profitable by product categories is Cleats and Fan Shop by product departments.
+
+**2. Based on Inventory Analysis Dashboard:**
+- Total Storage : 86,430 dollars; Total demand : 66,367 products; Total Supply : 71,014 products.
+- Highest demanding product department is Fan Shop, but its supply(inventory) is compared to less.
+- Highest demanding product is Perfect Fitness Perfect Rip Deck, and the supply (inventory) is sufficient.
+- Cleats, Shop By Sport, Toys is highest overstock product category and Indoor/Outdoor Games, Water Sports, Fishing is highest understock product category.
+
+**3. Based on Shipment Anlysis**
+- On average, there is a 60,97% delay in shipments across all orders. It's worth noting that the highest delays occur in shipments to the USA, France, and Mexico.
+- Before scheduled and delays of up to 5 days most often occur in the product shipment process.
+- The most commonly used shipping mode is standard class, with most shipments arriving on time or before the scheduled date.
+
+# **Suggestions**
+Based on the insights provided, here are some business suggestions for improving performance in logistics and supply chain:
+
+**1. Optimize Inventory Management**
+- Re-evaluate inventory management, especially for products with excess or insufficient stock.
+- Implement more accurate stock adjustment strategies based on historical demand and sales to avoid losses due to overstocking or stockouts.
+
+**2. Enhance Shipping Efficiency**
+- Identify the root causes of shipment delays, particularly to the USA, France, and Mexico.
+- Evaluate the shipping process and identify areas for improvement to reduce delays, such as optimizing shipping routes, selecting more reliable shipping service providers, or improving coordination between relevant parties.
+
+**3. Product Performance Analysis**
+- Review the performance of specific products and identify factors contributing to differences in sales and profits.
+- Implement more aggressive marketing strategies or improvements to less profitable products to enhance overall performance.
+- Investigate the significant decrease in profits from October to December 2017 in more detail. Ensure there are no data errors or external factors affecting performance during that period.
+
+**4. Warehouse Performance Improvement**
+- Pay attention to storage and distribution efficiency in warehouses.
+- Update warehouse management systems to improve accuracy and efficiency in managing inventory and processing orders.
+
+**6. Customer Service Enhancement**
+- Improve transparency in shipment tracking to provide customers with more accurate information about the status of their orders.
+- Evaluate customer service processes and identify areas for improvement to enhance customer satisfaction.
+![close](https://github.com/iqbalstilllearning/logistics-and-supply-chain-analysis/assets/105572256/18b05924-f375-4a35-bae1-56fbecadd864)
+
+**Links: [[Linkedin](https://www.linkedin.com/in/muhammadiqbal-/)] [[Github](https://github.com/iqbalstilllearning/)] [[Gmail](muhammadiqbal4edu@gmail.com)]**
+  
